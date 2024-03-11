@@ -51,7 +51,7 @@ function Main() {
 
       <br></br>
 
-      <div className='Contact'>
+      <div className='Contact' id = 'Contact'>
       <h2> Contact </h2>
       <ul>
       <li>Contact my <a href='https://google.ca'>personal email</a></li>
