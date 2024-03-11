@@ -35,7 +35,7 @@ function Main() {
       <br></br>
 
       <div className='section3'>
-      <img src={selfie} className='mainPicture'></img>
+      <img src={slenderman} className='mainPicture'></img>
         <div className='text'>
           <h2 id="Experience"> Experience </h2>
           <p> Some programming languages I know are: </p>
