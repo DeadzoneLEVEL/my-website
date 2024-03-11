@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/my-website/static/css/main.d7b69d34.css",
+    "main.js": "/my-website/static/js/main.b0a4554f.js",
+    "static/js/453.55c3503c.chunk.js": "/my-website/static/js/453.55c3503c.chunk.js",
+    "static/media/slender-man.jpg": "/my-website/static/media/slender-man.c9e9455bfd03bed7a25d.jpg",
+    "static/media/coolGuy.png": "/my-website/static/media/coolGuy.8cc8b144535cb06adfab.png",
+    "index.html": "/my-website/index.html",
+    "main.d7b69d34.css.map": "/my-website/static/css/main.d7b69d34.css.map",
+    "main.b0a4554f.js.map": "/my-website/static/js/main.b0a4554f.js.map",
+    "453.55c3503c.chunk.js.map": "/my-website/static/js/453.55c3503c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7b69d34.css",
+    "static/js/main.b0a4554f.js"
+  ]
+}
