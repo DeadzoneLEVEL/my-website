@@ -1,0 +1,131 @@
+.Container {
+    display: grid;
+    grid-template: 
+    "header" auto
+    "nav" auto
+    "body" auto
+    "footer" auto;
+
+    font-family: 'Courier New', Courier, monospace;
+}
+
+header {
+    grid-area: header;
+    background-color: #222;    
+    color: white;
+    -webkit-text-stroke: 1px rgb(255, 123, 0); 
+
+    position: sticky;
+    width: auto;
+    top: 0%;
+    height: 105%;
+    padding: 0px 0px 0px 2%;
+
+    z-index: 0;
+}
+
+nav {
+    grid-area: nav;
+    color: white;
+    position: sticky;
+    width: 100%;
+    top: 8%;
+}
+
+nav div {
+    background-color: rgb(223, 124, 3);
+}
+
+nav a {
+    padding: 0.25% 2%;
+    text-align: left;
+    background-color: orange;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+
+    transition: background-color 0.5s, padding 0.5s;
+    z-index: 1;
+}
+
+nav a:hover {
+    background-color: darkorange;
+    padding: 0.75% 2.5%;
+
+    transition: background-color 0.5s, padding 0.5s;
+}
+
+main {
+    padding: 20px;
+    height: 1000px;
+
+    /* padding-left: 25%; */
+    /* padding-right: 25%;   */
+}
+
+main h2 {
+    color: darkorange;
+    margin: 0;
+}
+
+main p {
+    margin-top: 0;
+}
+
+main ul li {
+    list-style-type:square;
+}
+
+main a {
+    color: darkorange;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+
+    text-align: center;
+    background-color: #222;
+    color: white;
+}
+
+canvas {
+    position: fixed;
+    
+    top: 0%;
+    left: 0%;
+
+    z-index: -1;
+}
+
+.section1, .section2, .section3 {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    align-items: center;
+}
+
+.mainPicture {
+    border-radius: 50%;
+    width: 25vb;
+    height: 25vb;
+}
+
+.text, .Contact, .mainPicture {
+    padding-left: 25%;
+    padding-right: 25%;
+
+    font-size: 1vmax;
+}
+
+.Contact {
+    /* text-align: center; */
+    padding-left: 45%;
+}
+
+.Contact ul li {
+    list-style-type: none
+    
+}
