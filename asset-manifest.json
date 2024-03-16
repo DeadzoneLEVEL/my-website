@@ -1,17 +1,18 @@
 {
   "files": {
     "main.css": "/my-website/static/css/main.d7b69d34.css",
-    "main.js": "/my-website/static/js/main.e934fad2.js",
+    "main.js": "/my-website/static/js/main.063f6e50.js",
     "static/js/488.367de506.chunk.js": "/my-website/static/js/488.367de506.chunk.js",
+    "static/media/Screenshot 2024-03-07 232600.png": "/my-website/static/media/Screenshot 2024-03-07 232600.003ac261c715579d5236.png",
     "static/media/slender-man.jpg": "/my-website/static/media/slender-man.c9e9455bfd03bed7a25d.jpg",
     "static/media/coolGuy.png": "/my-website/static/media/coolGuy.8cc8b144535cb06adfab.png",
     "index.html": "/my-website/index.html",
     "main.d7b69d34.css.map": "/my-website/static/css/main.d7b69d34.css.map",
-    "main.e934fad2.js.map": "/my-website/static/js/main.e934fad2.js.map",
+    "main.063f6e50.js.map": "/my-website/static/js/main.063f6e50.js.map",
     "488.367de506.chunk.js.map": "/my-website/static/js/488.367de506.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d7b69d34.css",
-    "static/js/main.e934fad2.js"
+    "static/js/main.063f6e50.js"
   ]
 }
