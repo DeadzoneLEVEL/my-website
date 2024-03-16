@@ -2,6 +2,7 @@ import React from 'react'
 import '../App.css';
 import selfie from '../Images/coolGuy.png'
 import slenderman from '../Images/slender-man.jpg'
+import dog from '../Images/Screenshot 2024-03-07 232600.png'
 
 function Main() {
 
@@ -35,7 +36,7 @@ function Main() {
       <br></br>
 
       <div className='section3'>
-      <img src={slenderman} className='mainPicture'></img>
+      <img src={dog} className='mainPicture'></img>
         <div className='text'>
           <h2 id="Experience"> Experience </h2>
           <p> Some programming languages I know are: </p>
