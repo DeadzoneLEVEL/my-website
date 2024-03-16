@@ -52,11 +52,14 @@ function Main() {
 
       <br></br>
 
-      <div className='Contact'>
+      <div className='Contact' id = 'Contact'>
       <h2> Contact </h2>
       <ul>
       <li>Contact my <a href='https://google.ca'>personal email</a></li>
       <li>See my <a href='https://github.com/DeadzoneLEVEL'>github profile</a></li>
+      <li>Visit my <a href='https://deadzonelevel.github.io/my-website/#Contact'>github page</a></li>
+      <li>See <a href='https://www.youtube.com'>Youtube's main page</a></li>
+      <li>See <a href='https://www.google.com/search?client=opera-gx&q=google&sourceid=opera&ie=UTF-8&oe=UTF-8'>Google</a></li>
       </ul>
       </div>
     </main>
