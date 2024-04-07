@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/my-website/static/css/main.d7b69d34.css",
-    "main.js": "/my-website/static/js/main.063f6e50.js",
+    "main.css": "/my-website/static/css/main.675db67c.css",
+    "main.js": "/my-website/static/js/main.bcd45a77.js",
     "static/js/488.367de506.chunk.js": "/my-website/static/js/488.367de506.chunk.js",
-    "static/media/Screenshot 2024-03-07 232600.png": "/my-website/static/media/Screenshot 2024-03-07 232600.003ac261c715579d5236.png",
-    "static/media/slender-man.jpg": "/my-website/static/media/slender-man.c9e9455bfd03bed7a25d.jpg",
-    "static/media/coolGuy.png": "/my-website/static/media/coolGuy.8cc8b144535cb06adfab.png",
+    "static/media/slender-man.webp": "/my-website/static/media/slender-man.2d5fa6f9e607b49b8fbb.webp",
+    "static/media/Dog.webp": "/my-website/static/media/Dog.49ee76144409ad793033.webp",
+    "static/media/coolGuy.webp": "/my-website/static/media/coolGuy.193b9e14f50cf1c7881a.webp",
     "index.html": "/my-website/index.html",
-    "main.d7b69d34.css.map": "/my-website/static/css/main.d7b69d34.css.map",
-    "main.063f6e50.js.map": "/my-website/static/js/main.063f6e50.js.map",
+    "main.675db67c.css.map": "/my-website/static/css/main.675db67c.css.map",
+    "main.bcd45a77.js.map": "/my-website/static/js/main.bcd45a77.js.map",
     "488.367de506.chunk.js.map": "/my-website/static/js/488.367de506.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d7b69d34.css",
-    "static/js/main.063f6e50.js"
+    "static/css/main.675db67c.css",
+    "static/js/main.bcd45a77.js"
   ]
 }
