@@ -1,15 +1,15 @@
 import React from 'react'
 import '../App.css';
-import selfie from '../Images/coolGuy.png'
-import slenderman from '../Images/slender-man.jpg'
-import dog from '../Images/Screenshot 2024-03-07 232600.png'
+import selfie from '../Images/coolGuy.webp'
+import slenderman from '../Images/slender-man.webp'
+import dog from '../Images/Dog.webp'
 
 function Main() {
 
   return (
     <main>
       <div className='section1'>
-        <img src={selfie} className='mainPicture'></img>
+        <img rel="preload" fetchpriority="high" src={selfie} className='mainPicture' alt='Selfie'></img>
         <div className='text'>
           <h2 id="AboutMe"> About me </h2>
           <p>
@@ -30,20 +30,20 @@ function Main() {
             <li> Langara College </li>
           </ul>
         </div>
-        <img src={slenderman} className='mainPicture'></img>
+        <img src={slenderman} className='sidePicture' alt='Slender man'></img>
       </div>
 
       <br></br>
 
       <div className='section3'>
-      <img src={dog} className='mainPicture'></img>
+      <img  src={dog} className='sidePicture' alt='Dog'></img>
         <div className='text'>
           <h2 id="Experience"> Experience </h2>
           <p> Some programming languages I know are: </p>
           <ul>
             <li> Lua </li>
             <li> C++ </li>
-            <li> Javascript </li>
+            <li> Javascript </li> 
             <li> Java </li>
             <li> Python </li>
           </ul>
